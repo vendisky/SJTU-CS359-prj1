@@ -1,0 +1,32 @@
+2. Part A: SimpleScalar-based Study Project
+
+2.1 Objective:
+
+The objective of this project is get you hand-on experiences with some techniques (mainly on cache organization and optimizations) that you have learned from textbook using a tool set called SimpleScalar
+2.2 Resources for SimpleScalar
+
+SimpleScalar is a tool set, which consists of compiler, assembler, linker, simulation, and visualization tools for the SimpleScalar architecture. With this tool set, the user can simulate real programs on a range of modern processors and systems, using fast execution-driven simulation. We provide simulators ranging from a fast functional simulator to a detailed, out-of-order issue processor that supports non-blocking caches, speculative execution, and state-of-the-art branch prediction. The tool set is partly derived from the GNU software development tools. It provides researchers with an easily extensible, portable, high-performance test bed for systems design.
+The manual of the simulator can be found:  PDF manual.
+More information about SimpleScalar
+http://pages.cs.wisc.edu/~mscalar/simplescalar.html
+2.3 Project description:
+
+Read the problem sheet (downloadable from the problems sheet). Select three problems: two from P1-P5, and P8 is compulsory.
+Work on the three problems. You need to prepare a report for the studies of the three problems in English.  
+The framework for each problem study is as follows:
+- Basic setting and experiment description
+- Results (Figures and Tables are preferred)
+- Discussion on the results you derive
+- Concise conclusion
+2.4 Deadline
+
+Before class, 3 December 2013 (Tuesday)
+2.5 Submission
+
+Reports should be in the IEEE format (as explained in Section 4) and printed in paper.  
+2.6 Grading
+
+Grading will based on the following criteria
+Correctness of study
+Completeness of study
+Quality of the report
