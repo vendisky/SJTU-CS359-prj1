@@ -9,6 +9,6 @@ SJTU CS359 prj1
 * For details, you can read **report.pdf** in the repo.
 
 ---
-Wang,Steven(Tianze)
+Tianze Wang
 
 vendisky@gmail.com
