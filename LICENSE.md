@@ -5,6 +5,6 @@ If you link the page, please note linkage: https://github.com/vendisky/Compiler-
 Thanks!
 
 ---
-Wang, Steven(Tianze)
+Tianze Wang
 
 vendisky@gmail.com
